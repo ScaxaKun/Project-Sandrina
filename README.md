@@ -88,7 +88,3 @@ Program akan menampilkan dashboard monitoring dan mulai memproses video dari web
 - **H**: Menampilkan atau menyembunyikan riwayat aktivitas.
 - **P**: Menampilkan atau menyembunyikan halaman peringatan.
 - **Q**: Mengakhiri program.
-
-## 9. Catatan
-
-Sistem masih berupa prototipe yang menggunakan webcam sebagai sumber video. Integrasi dengan CCTV melalui RTSP akan dilakukan setelah akses sumber video tersedia.
